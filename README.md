@@ -2,7 +2,7 @@
 
 ## authors
 
-Thomas Virondaud & Marie Ploteau
+Thomas Virondaud & Marie Ploteau SI 3 ING4
 
 ## files
 
