@@ -1,0 +1,11 @@
+{
+  "name": "01_NodeJS",
+  "version": "1.0.0",
+  "description": "no desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_command"
+  },
+  "author": "ThomasVrd and MariePlo",
+  "license": "none"
+}
